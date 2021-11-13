@@ -1,0 +1,25 @@
+From boisvert@nist.gov Tue Oct 14 18:42:53 2008
+Date: Tue, 14 Oct 2008 15:42:51 -0400
+From: Ron Boisvert <boisvert@nist.gov>
+To: Josh Tenenberg <jtenenbg@u.washington.edu>, Robert McCartney <robert@engr.uconn.edu>
+Cc: Holly Rushmeier <holly.rushmeier@yale.edu>, Mark Mandelbaum <mandelbaum@hq.acm.org>, Jono Hardjowirogo <jono@hq.acm.org>
+Subject: TOCE
+
+Dear Josh and Robert,
+
+Congratulations!
+
+The ACM Publications Board has approved your proposal to convert
+JERIC into the ACM Transactions on Computing Education.  We are
+grateful for all of the thoughtful work that you have put into
+this effort thus far. Please work with Mark Mandelbaum and Jono
+Hardjowirogo to develop plans for the phaseout of JERIC and the
+rollout of TOCE.  Free free to contact Holly and me if there is
+anything further you feel you need from the Pubs Board.
+
+Best wishes,
+
+Ron
+
+
+
