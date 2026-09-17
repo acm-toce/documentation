@@ -2570,6 +2570,35 @@ Sincerely,
 ##TAG_EIC_SIGNATURE##
     </body>
   </email>
+  <email email_name="SI Situated and Critical effects GenAI - Decline" email_id="3852438">
+    <from_address>##PROLE_EDITOR-IN-CHIEF_EMAIL##</from_address>
+    <to_address>##PROLE_AUTHOR_EMAIL##</to_address>
+    <cc_address>##EMAIL_CONTACT_ADMIN_CENTER_EMAIL##</cc_address>
+    <cc_address>##DOCUMENT_AUTHORS_EMAIL##</cc_address>
+    <bcc_address>##PROLE_ASSOCIATE_EDITOR_EMAIL##</bcc_address>
+    <bcc_address>##PROLE_EDITOR-IN-CHIEF_EMAIL##</bcc_address>
+    <subject>TOCE submission - ##DOCUMENT_ID##</subject>
+    <body>
+##CURRENT_DATE##
+
+Dear ##PROLE_AUTHOR_FULLNAME##,
+
+Your proposal, "##DOCUMENT_TITLE##", which was submitted for consideration in the ACM TOCE Special Issue on Situated and Critical Effects of Generative AI in Computing Education, has been evaluated by its guest editors.
+
+Based on the guest editors' evaluation of your proposal, we have concluded that the proposal is unlikely to produce a full paper that fits the goals of the special issue. We hope that you find the guest editors' comments (shown below) helpful in publishing your work, which might involve submitting to TOCE as a regular submission.
+
+Thank you for submitting your proposal and allowing it to be considered for this special issue.
+
+Sincerely,
+
+##TAG_EIC_SIGNATURE##
+
+--------------------------------------
+Here are the Guest Editor's comments:
+
+##RECOMMENDATION_COMMENTS_TO_AUTHOR_NO_NAME##
+    </body>
+  </email>
   <email email_name="Special Issue on Embodiment - Decline" email_id="3336552">
     <from_address>##PROLE_EDITOR-IN-CHIEF_EMAIL##</from_address>
     <to_address>##PROLE_AUTHOR_EMAIL##</to_address>
